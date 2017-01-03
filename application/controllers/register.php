@@ -41,8 +41,8 @@ class Register extends CI_Controller {
 		$config['smtp_host']= "ssl://smtp.gmail.com";//pengaturan smtp
 		$config['smtp_port']= "465";
 		$config['smtp_timeout']= "400";
-		$config['smtp_user']= "cuma.buat.tes.doank@gmail.com"; // isi dengan email kamu
-		$config['smtp_pass']= "cumabuattesdoank"; // isi dengan password kamu
+		$config['smtp_user']= "whitehathac@gmail.com"; // isi dengan email kamu
+		$config['smtp_pass']= "963e962d"; // isi dengan password kamu
 		$config['crlf']="\r\n"; 
 		$config['newline']="\r\n"; 
 		$config['wordwrap'] = TRUE;
